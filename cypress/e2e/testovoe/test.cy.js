@@ -1,7 +1,6 @@
 
 
-const email = 'pocemail@mail.ru';
-const psw = 'SS21%aaW';
+
 const google = 'https://www.google.ru/';
 
 
